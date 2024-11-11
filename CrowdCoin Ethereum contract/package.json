@@ -1,0 +1,21 @@
+{
+  "name": "kickstart",
+  "version": "1.0.0",
+  "description": "Testing campaign contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "fs-extra": "^11.2.0",
+    "ganache": "^7.9.2",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.7.3",
+    "solc": "^0.8.19",
+    "truffle": "^5.11.5",
+    "web3": "^4.13.0"
+  }
+}
